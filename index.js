@@ -31,7 +31,7 @@ const questions = [
     {
         type: 'list',
         name: 'license',
-        choices: ['MIT License', 'GNU General Public License v3.0', 'Mozilla Public License 2.0']
+        choices: ['MIT License', 'Apache Liscense 2.0', 'Boost Software Liscense 1.0']
     },
     {
         type: "input",
